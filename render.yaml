@@ -15,4 +15,4 @@ services:
     #startCommand: npm start
     envVars:
       - key: SESSION_ID
-        value: "YOUR_SESSION_ID"
+        value: "ANJU-XPRO~yIFzxaiS#IvPVSUZ5ogatyg5U7L3HFmG25g81uavoi_jMPa7euX4"
